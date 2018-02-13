@@ -1,0 +1,7 @@
+
+
+Is there a way I can keep track of commands I used in Git under Windows? I want to view all the commands that I have applied on my repository.
+
+I want to be able to go back through the command history and figure out the command that caused the problem if one occurred.
+
+Seeing the history of commits would be one thing, but for keeping a history of other actions such as creating a branch or adding a remote, are these tracked?
